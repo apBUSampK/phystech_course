@@ -1,2 +1,1 @@
-I like IT, but I just love physics.
-Some Linux weird thing
+Savenkov Savva's repository for IT classe in MIPT
